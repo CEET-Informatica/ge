@@ -1,2 +1,2 @@
-# gep
+# ge
 Gestão escolar

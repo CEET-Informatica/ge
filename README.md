@@ -1,2 +1,2 @@
-# ge
-Gestão escolar
+# gep
+Gestor Escolar Pedagogico
